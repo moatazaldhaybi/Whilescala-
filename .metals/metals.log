@@ -1,0 +1,94 @@
+2025.05.13 17:58:56 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter' for client Visual Studio Code 1.100.0.
+2025.05.13 17:58:57 INFO  no build target found for C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\interpreter\src\main\scala\interpreter\interpreter.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.13 17:58:59 INFO  no build target found for C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\interpreter\src\main\scala\interpreter\interpreter.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.13 17:58:59 INFO  no build target found for C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\interpreter\src\main\scala\interpreter\interpreter.scala. Using presentation compiler with project's scala-library version: 3.3.6
+mai 13, 2025 5:58:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.05.13 17:58:59 INFO  no build target found for C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\interpreter\src\main\scala\interpreter\interpreter.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.13 17:58:59 INFO  no build target found for C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\interpreter\src\main\scala\interpreter\interpreter.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.13 17:59:01 INFO  running 'C:\Program Files\Java\jdk-23\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -Dsbt.version=1.10.11 -jar C:\Users\USER\AppData\Local\Temp\metals7818983734328767380\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.05.13 17:59:04 INFO  [info] Updated file C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\interpreter\project\build.properties: set sbt.version to 1.10.11
+2025.05.13 17:59:04 INFO  [info] welcome to sbt 1.10.11 (Oracle Corporation Java 23)
+2025.05.13 17:59:05 INFO  no build target found for C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\interpreter\src\main\scala\interpreter\interpreter.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.13 17:59:08 INFO  [info] loading settings for project interpreter-build-build from metals.sbt...
+2025.05.13 17:59:09 INFO  [info] loading project definition from C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\interpreter\project\project
+2025.05.13 17:59:10 INFO  no build target found for C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\interpreter\src\main\scala\interpreter\interpreter.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.13 17:59:13 INFO  [info] loading settings for project interpreter-build from metals.sbt...
+2025.05.13 17:59:13 INFO  [info] loading project definition from C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\interpreter\project
+2025.05.13 17:59:17 INFO  [success] Generated .bloop\interpreter-build.json
+2025.05.13 17:59:17 INFO  [success] Total time: 4 s, completed 13 mai 2025, 17:59:17
+2025.05.13 17:59:20 INFO  [info] loading settings for project interpreter from build.sbt...
+2025.05.13 17:59:20 INFO  [info] set current project to Interpreter (in build file:/C:/Users/USER/OneDrive/Documents/projects/cal/projet2/interpreter/interpreter/)
+2025.05.13 17:59:22 INFO  [success] Generated .bloop\interpreter.json
+2025.05.13 17:59:22 INFO  [success] Generated .bloop\interpreter-test.json
+2025.05.13 17:59:22 INFO  [success] Total time: 1 s, completed 13 mai 2025, 17:59:22
+2025.05.13 17:59:22 INFO  time: ran 'sbt bloopInstall' in 20s
+2025.05.13 17:59:22 INFO  Attempting to connect to the build server...
+2025.05.13 17:59:22 INFO  Found a Bloop server running
+2025.05.13 17:59:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.13 17:59:22 INFO  time: Connected to build server in 0.28s
+2025.05.13 17:59:22 INFO  Connected to Build server: Bloop v2.0.9
+2025.05.13 17:59:28 INFO  time: indexed workspace in 6.2s
+2025.05.13 17:59:28 INFO  compiling interpreter (2 scala sources)
+2025.05.13 17:59:31 INFO  compiling interpreter-test (4 scala sources)
+2025.05.13 17:59:31 INFO  time: compiled interpreter in 2.47s
+2025.05.13 17:59:34 INFO  time: compiled interpreter-test in 2.85s
+2025.05.13 17:59:40 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\.metals\dap-server.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.05.13 17:59:40 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\.metals\dap-client.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.05.13 17:59:41 INFO  Starting debug proxy for [interpreter.TestsCommands()]
+2025.05.13 17:59:41 INFO  Initialized Scala 3 decoder in 1 millisecond
+2025.05.13 17:59:41 INFO  Trying to attach to remote debuggee VM kubernetes.docker.internal:62514 .
+2025.05.13 17:59:41 INFO  Attaching to debuggee VM succeeded.
+2025.05.13 17:59:42 INFO  Closing debug server tcp://0.0.0.0:62488
+2025.05.13 17:59:42 INFO  Canceling debug proxy for [interpreter.TestsCommands()]
+2025.05.13 17:59:46 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\.metals\dap-server.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.05.13 17:59:46 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\.metals\dap-client.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.05.13 17:59:47 INFO  Starting debug proxy for [interpreter.TestsExpressions()]
+2025.05.13 17:59:47 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2025.05.13 17:59:47 INFO  Trying to attach to remote debuggee VM kubernetes.docker.internal:62790 .
+2025.05.13 17:59:47 INFO  Attaching to debuggee VM succeeded.
+2025.05.13 17:59:48 INFO  Canceling debug proxy for [interpreter.TestsExpressions()]
+2025.05.13 17:59:48 INFO  Closing debug server tcp://0.0.0.0:62781
+2025.05.13 17:59:52 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\.metals\dap-server.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.05.13 17:59:52 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\.metals\dap-client.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.05.13 17:59:52 INFO  Starting debug proxy for [interpreter.TestsMemoire()]
+2025.05.13 17:59:52 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2025.05.13 17:59:52 INFO  Trying to attach to remote debuggee VM kubernetes.docker.internal:62811 .
+2025.05.13 17:59:52 INFO  Attaching to debuggee VM succeeded.
+2025.05.13 17:59:53 INFO  Canceling debug proxy for [interpreter.TestsMemoire()]
+2025.05.13 17:59:53 INFO  Closing debug server tcp://0.0.0.0:62807
+2025.05.13 17:59:57 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\.metals\dap-server.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2025.05.13 17:59:57 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\.metals\dap-client.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2025.05.13 17:59:57 INFO  Starting debug proxy for [interpreter.TestsPrograms()]
+2025.05.13 17:59:57 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2025.05.13 17:59:57 INFO  Trying to attach to remote debuggee VM kubernetes.docker.internal:62833 .
+2025.05.13 17:59:57 INFO  Attaching to debuggee VM succeeded.
+2025.05.13 17:59:58 INFO  Canceling debug proxy for [interpreter.TestsPrograms()]
+2025.05.13 17:59:58 INFO  Closing debug server tcp://0.0.0.0:62830
+2025.05.13 18:14:55 INFO  Shutting down server
+2025.05.13 18:14:55 INFO  shutting down Metals
+2025.05.13 18:14:55 INFO  Shut down connection with build server.
+2025.05.13 18:14:55 INFO  Exiting server
+2025.05.17 12:00:27 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter' for client Visual Studio Code 1.100.2.
+2025.05.17 12:00:28 INFO  no build target found for C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\interpreter\src\main\scala\interpreter\types.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.17 12:00:31 INFO  no build target found for C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\interpreter\src\main\scala\interpreter\types.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.17 12:00:31 INFO  Attempting to connect to the build server...
+2025.05.17 12:00:31 INFO  No running Bloop server found, starting one.
+mai 17, 2025 12:00:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+mai 17, 2025 12:00:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+mai 17, 2025 12:00:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.05.17 12:00:35 INFO  Starting compilation server
+2025.05.17 12:00:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.17 12:00:38 INFO  time: Connected to build server in 7.59s
+2025.05.17 12:00:38 INFO  Connected to Build server: Bloop v2.0.10
+2025.05.17 12:00:38 INFO  time: Imported build in 0.19s
+2025.05.17 12:00:41 INFO  time: indexed workspace in 3.25s
+mai 17, 2025 2:26:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.05.17 14:26:56 INFO  Shutting down server
+2025.05.17 14:26:56 INFO  shutting down Metals
+2025.05.17 14:26:56 INFO  Shut down connection with build server.
+2025.05.17 14:26:56 INFO  Exiting server

@@ -1,0 +1,4 @@
+[debug] [interpreter-test] Classpath dependencies List()
+[debug] [interpreter-test] Dependencies from configurations List(interpreter)
+[debug] Bloop wrote the configuration of project 'interpreter-test' to 'C:\Users\USER\OneDrive\Documents\projects\cal\projet2\interpreter\interpreter\.bloop\interpreter-test.json'
+[success] Generated .bloop\interpreter-test.json
